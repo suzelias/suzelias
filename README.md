@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sue
 - 👀 I’m interested in Videogames
 - 🌱 I’m currently learning C#
-- 📫 still noob
+- 📫 still NOOB
 
 
 <!---
