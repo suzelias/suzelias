@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @suzelias
+- 👋 Hi, I’m Sue
 - 👀 I’m interested in Videogames
 - 🌱 I’m currently learning c#
 - 📫 still noob
-- 😄 Pronouns: She/Her
+
 
 <!---
 suzelias/suzelias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
